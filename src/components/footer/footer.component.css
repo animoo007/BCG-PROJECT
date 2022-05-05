@@ -1,0 +1,22 @@
+.footer-bottom-section {
+    /* background-color: #0074D9; */
+    position: absolute;
+    width: 100%;
+}
+       
+/* styling navlist anchor element */
+.footer-bottom-section a {
+    float:left;
+    display: block;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+}
+/* .image-section{
+    padding: 12px;
+} */
+.footer-copyrights{
+    text-align: center;
+    /* float: right; */
+}

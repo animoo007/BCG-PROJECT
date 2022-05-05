@@ -1,0 +1,33 @@
+.main-feature{
+display: flex;
+flex-direction: row;
+}
+
+.features-title{
+    font-size: 48px;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+.customize-extend{
+    background: url('../../assets/customize-bg.png');
+    background-repeat: no-repeat;
+    background-size: 430px 293px;
+    width: 36.33%;
+    margin-left: 87px;
+}
+.need-start{
+    background: url('../../assets/allneedbg.png');
+    background-repeat: no-repeat;
+    background-size: 430px 293px;
+    width: 25.33%;
+
+}
+.active-community{
+    background: url('../../assets/peoplebg.png');
+    background-repeat: no-repeat;
+    background-size: 430px 293px;
+    width: 36.33%;
+}
+.main-feature a{
+    color: #299EF3;
+}

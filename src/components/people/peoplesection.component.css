@@ -1,0 +1,39 @@
+.people-header{
+    text-align: center;
+}
+
+.people-title{
+    font-size: 48px;
+    font-family: 'Montserrat';
+}
+
+.cta-section{
+    display: flex;
+    width: auto;
+    background-color: #7854F7
+}
+
+.people-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.cta-title{
+    font-size: 36px;
+    color: #FFFFFF;
+    width: 75%;
+    padding: 34px 33px 18px 258px;
+}
+
+.getstartedbtn{
+    background-color: #7854F7;
+    padding: 15px;
+    color: #FFFFFF;
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-top: 71px;
+    height: fit-content;
+}

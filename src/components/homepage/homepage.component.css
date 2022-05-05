@@ -1,0 +1,36 @@
+
+.common-home{
+        display: flex;
+        padding: 10px;
+        width:max-content;
+        margin: auto;
+}
+.homepage-title{
+    font-size: 85px;
+    font-family: 'Montserrat';
+    width: 800px;
+    margin: 40px 24px 12px 24px;
+}
+.sub-title{
+    font-size: 18px;
+    width: 600px;
+    margin-left: 53px;
+}
+.start-btn{
+    /* width: 120px;
+    height: 47px; */
+    background-color: #7854F7;
+    padding: 15px;
+    color: #FFFFFF;
+    border-radius: 30px;
+    margin-left: 40px;
+
+}
+.customize-link{
+    color: #299EF3
+}
+.image-section{
+width:  600px;
+height: auto;
+margin: auto 1em;
+}

@@ -1,0 +1,75 @@
+.main-footer {
+    background-color: #7854F7;
+}
+.image-container{
+    display: flex;
+    width: 100%;
+    padding: 87px;
+
+}
+.commer-logo{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 28px;
+}
+.money-back{
+    width: 33.33%;
+    display: flex;
+}
+.image-container p{
+    color: #FFFFFF;
+
+}
+.image-container img{
+    height: fit-content;
+    margin-top: 10px;
+}
+.line {
+    border-top: 1px solid #FFFFFF;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.support{
+width: 33.33%;
+display: flex;
+}
+.secure{
+width: 33.33%;
+display: flex;
+}
+
+.footer-top-sec{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: center;
+    margin: 0px 120px 0px 120px;
+}
+.footer-top-sec a{
+    display: block;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footer-top-sec div{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+}
+.about{
+width: 20%;
+}
+.commerce{
+    width: 20%;
+}
+.other-products{
+    width: 20%;
+}
+.support-footer{
+    width: 20%;
+}
+.recommend{
+    width: 20%;
+}
